@@ -17,7 +17,7 @@ The course focuses on understanding how data is transmitted, how protocols opera
 - 🧩 Network Devices: Hubs, Switches, Routers  
 - 📦 Data Encapsulation and Packet Delivery  
 - 🌍 IP Addressing and Subnetting  
-- 📠 Routing and Switching Basics  
+- 📠 Routing and Switching Basics and Algorithm of Routers
 - 🔐 Network Protocols (ARP, ICMP, TCP, UDP, HTTP, etc.)  
 
 ---
